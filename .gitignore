@@ -12,6 +12,7 @@ Assets/Paid
 #DoTween Pro
 Assets/Plugins/Demigiant/DOTweenPro
 Assets/Plugins/Demigiant/DOTweenPro Examples
+Assets/Resources/DOTweenSettings.asset
 
 # User-specific stuff
 .idea/**/workspace.xml
