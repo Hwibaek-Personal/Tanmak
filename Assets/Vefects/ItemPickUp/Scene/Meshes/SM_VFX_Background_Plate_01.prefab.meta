@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e6930e1c24f582842aa2c10e3ddfe972
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241404
+  packageName: Item Pickup VFX - URP
+  packageVersion: 1.0.0
+  assetPath: Assets/Vefects/ItemPickUp/Scene/Meshes/SM_VFX_Background_Plate_01.prefab
+  uploadId: 549320
